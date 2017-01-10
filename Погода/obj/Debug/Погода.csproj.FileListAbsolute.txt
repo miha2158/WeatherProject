@@ -1,0 +1,9 @@
+C:\Users\Bulya\OneDrive\Documents\Практика\Погода\Погода\bin\Debug\Погода.exe.config
+C:\Users\Bulya\OneDrive\Documents\Практика\Погода\Погода\bin\Debug\Погода.exe
+C:\Users\Bulya\OneDrive\Documents\Практика\Погода\Погода\bin\Debug\Погода.pdb
+C:\Users\Bulya\OneDrive\Documents\Практика\Погода\Погода\obj\Debug\Погода.csprojResolveAssemblyReference.cache
+C:\Users\Bulya\OneDrive\Documents\Практика\Погода\Погода\obj\Debug\Погода.exe
+C:\Users\Bulya\OneDrive\Documents\Практика\Погода\Погода\obj\Debug\Погода.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Погода\Погода\bin\Debug\Погода.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Погода\Погода\obj\Debug\Погода.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Погода\Погода\obj\Debug\Погода.pdb
